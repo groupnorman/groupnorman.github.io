@@ -1,3 +1,16 @@
 body {
     padding-top: 70px;
 }
+
+.jumbotron {
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+}
+
+.jumbotron h1{
+    color: #fff;
+}
+
+.jumbotron p{
+    color: #fff;
+}
